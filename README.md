@@ -1,5 +1,6 @@
 - 👋 Hi, I’m jgarbora @ attuneito.com
 - 📫 reach me at juan@attuneito.com
+- https://kotlinlang.org/docs/getting-started.html
 
 <!---
 jgarbora-attuneito/jgarbora-attuneito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
