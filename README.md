@@ -1,5 +1,5 @@
-- 👋 Hi, I’m jgarbora @ attuneito.com
-- 📫 reach me at juan@attuneito.com
+- 👋 Hi, I’m jgarbora @ attuneiot.com
+- 📫 reach me at juan@attuneiot.com
 
 <!---
 jgarbora-attuneito/jgarbora-attuneito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
